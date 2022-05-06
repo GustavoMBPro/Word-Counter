@@ -1,0 +1,1 @@
+This C# program displays the number of words in a sentence and calculates de average amount of letters in  a word and also capitalizes every word in a the sentence.

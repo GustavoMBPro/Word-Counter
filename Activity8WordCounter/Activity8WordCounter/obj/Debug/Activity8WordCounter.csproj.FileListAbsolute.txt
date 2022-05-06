@@ -1,0 +1,21 @@
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.exe.config
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.exe
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.pdb
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.WordCounter.resources
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.Properties.Resources.resources
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.GenerateResource.cache
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.exe
+C:\Users\Gusta\source\repos\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.exe.config
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\bin\Debug\Activity8WordCounter.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.AssemblyReference.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.WordCounter.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.Properties.Resources.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.GenerateResource.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 8\Gustavo_MarinBorges_Activity8\Activity8WordCounter\Activity8WordCounter\obj\Debug\Activity8WordCounter.csproj.SuggestedBindingRedirects.cache
